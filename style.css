@@ -1,0 +1,17 @@
+#contenedor-del-mapa {
+    height: 500px;   
+}
+
+h1{ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    color: red;
+    text-align: center;
+
+}
+
+p{
+    font-size: 25xp;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
